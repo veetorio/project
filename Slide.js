@@ -1,1 +1,1 @@
-for(i = 0; i <= 650;i++){window.open("https://www.youtube.com/watch?v=wUpUEbc74t0&list=RD5qKnbKJMfXE&index=10")}
+for(i = 0; i <= 5;i++){window.open("https://www.youtube.com/watch?v=mylCxGRywio")}
